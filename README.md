@@ -10,8 +10,8 @@ Simplys supply the search query and number of batches to download, let the progr
 ![](screenshot.jpg)
 ## Instruction
 
-1. Get Bing Search API (v7) here: https://www.microsoft.com/en-us/bing/apis/pricing
-2. Set it up in the `config.py`
+1. Get Bing Search subscription (v7) here: https://www.microsoft.com/en-us/bing/apis/pricing
+2. Set the API KEY in `config.py`
 3. Run `python bing_image_search.py -q 'YOUR QUERY' -n NUM_OF_IMAGES` to scrape and download
 
 ## Note
